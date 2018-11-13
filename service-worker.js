@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/demo-use-mobile-detect-hook/precache-manifest.fcb409af5552e81fd3e35c638c161167.js"
+  "/demo-use-mobile-detect-hook/precache-manifest.127f59f381d64d5601adc79e27617c44.js"
 );
 
 workbox.clientsClaim();
