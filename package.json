@@ -1,12 +1,12 @@
 {
   "name": "demo-use-mobile-detect-hook",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "react": "16.8.0",
     "react-dom": "16.8.0",
     "react-scripts": "4.0.3",
-    "use-mobile-detect-hook": "^1.0.1"
+    "use-mobile-detect-hook": "1.0.4"
   },
   "scripts": {
     "start": "react-scripts start",
